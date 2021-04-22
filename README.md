@@ -6,12 +6,16 @@
 npm install
 ```
 
-## instal dependencies
+## install dependencies
 
 ```nodejs
 npm start
 ```
 
+## Concepts
+
 ### TypeORM
 
 Um ORM alinhado com o ambiente de desenvolvimento typescript do qual consigo trabalhar com banco de dados relacionais e não relaiconais
+
+### Migration
